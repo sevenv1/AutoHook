@@ -1,0 +1,6 @@
+{
+  "token": "ur account token",
+  "monitorURL": "url to watch (webhook link)",
+  "createURL": "url to create new webhook (https://discord.com/api/v9/webhooks/{channel id}/webhooks)",
+  "checkInterval": 1
+}
